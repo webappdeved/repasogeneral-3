@@ -1,3 +1,4 @@
+Errores de nombre de archivo
 # Changelog
 
 Todos los cambios importantes de este proyecto se registran en este archivo.
